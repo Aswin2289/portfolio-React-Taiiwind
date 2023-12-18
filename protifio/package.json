@@ -12,14 +12,21 @@
   "dependencies": {
     "animate.css": "^4.1.1",
     "react": "^18.2.0",
+<<<<<<< HEAD
     "react-animate-on-scroll": "^2.1.7",
+=======
+>>>>>>> 1b5fd0728a20b8a52c5110bf3fbda0b03ad3fdbe
     "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
     "react-icons": "^4.12.0",
     "react-text-loop": "^2.3.0",
     "react-type-animation": "^3.2.0",
+<<<<<<< HEAD
     "react-typed": "^1.2.0",
     "taos": "^1.0.5"
+=======
+    "react-typed": "^1.2.0"
+>>>>>>> 1b5fd0728a20b8a52c5110bf3fbda0b03ad3fdbe
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
