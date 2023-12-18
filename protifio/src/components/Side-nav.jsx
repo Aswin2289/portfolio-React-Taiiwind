@@ -94,7 +94,7 @@ const SideNav = () => {
       ) : (
         <div></div>
       )}
-      <div className="md:block hidden fixed top-[20%] right-0 z-10">
+      <div className="md:block hidden fixed top-[25%] right-0 z-10">
         <div className="flex flex-col">
           <a href="#main"className="rounded-full shadow-lg bg-white m-2 p-4 cursor-pointer hover:scale-105 ease-in duration-100">
             <AiOutlineHome size={20}/>
